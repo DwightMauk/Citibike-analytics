@@ -6,3 +6,4 @@ loaded data in tableau workbook
 Based on data made vizualizations for age vs how many rides
 made vizualizations for most popoular start and end stations
 
+![stations](Screenshot(20).png)
